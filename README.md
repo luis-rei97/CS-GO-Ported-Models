@@ -1,8 +1,9 @@
 <h1>CS:GO Pet Models</h1>
 
-These are some models that I ported from another games (e.g Garry's Mod) that I had for my servers.
-Since I don't have them anymore and people still wants them, I decided to publish them.
-Every pet folder has their materials, with a respective <b>TXT File</b> with their paths.
+<p>These are some models that I ported from another games (e.g Garry's Mod) that I had for my servers.</p>
+<p>Since I don't have them anymore and people still wants them, I decided to publish them.</p>
+<p>Every pet folder has their materials, with a respective <b>TXT File</b> with their paths.</p>
+<p>You also can find some previews as you search inside the folders, to see how the models look.</p>
 
 <h2>Current Pets in this Repository: </h2>
 
