@@ -2,4 +2,4 @@
 
 <h2>Dromeosaur:</h2>
 
-![Alt text](dromeosaur.png?raw=true "Dromeosaur")
+![Alt text](https://i.imgur.com/lcLwELZ.png?raw=true "Dromeosaur")
