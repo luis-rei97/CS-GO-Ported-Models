@@ -4,7 +4,7 @@ These are some models that I ported from another games (e.g Garry's Mod) that I 
 Since I don't have them anymore and people still wants them, I decided to publish them.
 Every pet folder has their materials, with a respective <b>TXT File</b> with their paths.
 
-<h2>Current Pets in this Repository</h2>:
+<h2>Current Pets in this Repository: </h2>
 
 <ul>
 <li>Pokémon Jolteon</li>
