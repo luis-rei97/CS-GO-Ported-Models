@@ -7,10 +7,10 @@ Every pet folder has their materials, with a respective <b>TXT File</b> with the
 <h2>Current Pets in this Repository: </h2>
 
 <ul>
-<li>Pokémon Jolteon</li>
-<li>Pokémon Umbreon</li>
-<li>Pokémon Vaporeon</li>
-<li>Dinosaur Dromeosaur</li>
+<li>Pokémon <b>Jolteon</b></li>
+<li>Pokémon <b>Umbreon</b></li>
+<li>Pokémon <b>Vaporeon</b></li>
+<li>Dinosaur <b>Dromeosaur</b></li>
 </ul>
 
 
