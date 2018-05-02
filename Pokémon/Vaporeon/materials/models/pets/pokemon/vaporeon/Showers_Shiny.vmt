@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\pets\pokemon\vaporeon\Showers_Shiny"
+	"$halflambert"	"1"
+}

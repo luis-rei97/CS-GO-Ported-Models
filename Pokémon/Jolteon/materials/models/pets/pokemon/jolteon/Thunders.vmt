@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\pets\pokemon\jolteon\Thunders"
+	"$halflambert"	"1"
+}

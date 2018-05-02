@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"models/htconfigs/pets/pokemon/umbreon/Blacky"
+	"$halflambert"		"1"
+
+	"$selfillum"		"1"
+	"$selfillummask"	"models/htconfigs/pets/pokemon/umbreon/Blacky_Illum"
+}

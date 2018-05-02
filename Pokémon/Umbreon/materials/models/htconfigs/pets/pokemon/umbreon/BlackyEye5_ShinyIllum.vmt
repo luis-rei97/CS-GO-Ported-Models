@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"models/htconfigs/pets/pokemon/umbreon/BlackyEye_Shiny"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0.5 0"
+	"$halflambert"		"1"
+
+	"$selfillum"		"1"
+	"$selfillummask"	"models/htconfigs/pets/pokemon/umbreon/BlackyEye_ShinyIllum"
+}

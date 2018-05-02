@@ -1,0 +1,8 @@
+// Dromeaosaur
+
+materials/models/htconfigs/pets/dinosaur/dromeaosaur/dromeo.vmt 
+materials/models/htconfigs/pets/dinosaur/dromeaosaur/dromeo.vtf 
+
+models/htconfigs/pets/dinosaur/dromeaosaur.dx90.vtx 
+models/htconfigs/pets/dinosaur/dromeaosaur.mdl 
+models/htconfigs/pets/dinosaur/dromeaosaur.vvd 
