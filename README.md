@@ -7,11 +7,21 @@
 
 <h2>Current Pets in this Repository: </h2>
 
+<h3>Pokémon</h3>
 <ul>
-<li>Pokémon <b>Jolteon</b></li>
-<li>Pokémon <b>Umbreon</b></li>
-<li>Pokémon <b>Vaporeon</b></li>
-<li>Dinosaur <b>Dromeosaur</b></li>
+  <li>Pokémon <b>Jolteon</b></li>
+  <li>Pokémon <b>Umbreon</b></li>
+  <li>Pokémon <b>Vaporeon</b></li>
+</ul>
+
+<h3>Animals</h3>
+<ul>
+  <li>Animal <b>Lynx</b>
+</ul>
+
+<h3>Dinosaur</h3>
+<ul>
+  <li>Dinosaur <b>Dromeosaur</b></li>
 </ul>
 
 
