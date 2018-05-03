@@ -1,0 +1,9 @@
+// LINCE
+
+materials/models/htconfigs/pets/animals/lynx/lynx_skin.vmt
+materials/models/htconfigs/pets/animals/lynx/lynx_skin.vtf
+materials/models/htconfigs/pets/animals/lynx/lynx_skin_bump.vtf
+
+models/htconfigs/pets/animals/lynx.dx90.vtx
+models/htconfigs/pets/animals/lynx.mdl
+models/htconfigs/pets/animals/lynx.vvd
