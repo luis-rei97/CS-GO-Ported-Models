@@ -1,0 +1,8 @@
+// TURTLE
+
+materials/models/htconfigs/pets/animals/turtle/turtle_skin.vmt 
+materials/models/htconfigs/pets/animals/turtle/turtle_skin.vtf 
+materials/models/htconfigs/pets/animals/turtle/turtle_skin_bump.vtf 
+models/htconfigs/pets/animals/turtle.dx90.vtx 
+models/htconfigs/pets/animals/turtle.mdl 
+models/htconfigs/pets/animals/turtle.vvd 
