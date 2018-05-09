@@ -18,6 +18,7 @@
 <ul>
   <li>Animal <b>Lynx</b>
   <li>Animal <b>Turtle</b>
+  <li>Animal <b>Lion</b>
 </ul>
 
 <h3>Dinosaur</h3>
