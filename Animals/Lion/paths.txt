@@ -1,0 +1,8 @@
+// LION
+
+materials/models/htconfigs/pets/animals/lion/lionm_skin.vmt 
+materials/models/htconfigs/pets/animals/lion/lionm_skin.vtf 
+materials/models/htconfigs/pets/animals/lion/lionm_skin_bump.vtf 
+models/htconfigs/pets/animals/lion.dx90.vtx 
+models/htconfigs/pets/animals/lion.mdl 
+models/htconfigs/pets/animals/lion.vvd 
