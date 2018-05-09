@@ -7,3 +7,7 @@
 <h2>Turtle:</h2>
 
 ![Alt text](https://i.imgur.com/PTtby0Y.png?raw=true "Turtle")
+
+<h2>Lion:</h2>
+
+![Alt text](https://i.imgur.com/LnDddNj.png?raw=true "Lion")
