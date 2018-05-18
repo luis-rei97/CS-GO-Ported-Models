@@ -15,3 +15,7 @@
 <h2>Poland (#2) Flag:</h2>
 
 ![Alt text](https://i.imgur.com/spU2Q78.png?raw=true "Poland #2 Flag")
+
+<h2>Russia Flag:</h2>
+
+![Alt text](https://i.imgur.com/8RMV8f8.png?raw=true "Poland #2 Flag")
