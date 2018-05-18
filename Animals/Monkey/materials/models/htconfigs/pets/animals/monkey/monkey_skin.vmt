@@ -1,0 +1,7 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\htconfigs\pets\animals\monkey\monkey_skin"
+	"$bumpmap" "models\htconfigs\pets\animals\monkey\monkey_skin_bump"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}

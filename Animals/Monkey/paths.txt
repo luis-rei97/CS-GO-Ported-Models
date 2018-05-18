@@ -1,0 +1,8 @@
+// MONKEY
+
+materials/models/htconfigs/pets/animals/monkey/monkey_skin.vmt 
+materials/models/htconfigs/pets/animals/monkey/monkey_skin.vtf 
+materials/models/htconfigs/pets/animals/monkey/monkey_skin_bump.vtf 
+models/htconfigs/pets/animals/monkey.dx90.vtx 
+models/htconfigs/pets/animals/monkey.mdl 
+models/htconfigs/pets/animals/monkey.vvd 
