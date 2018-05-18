@@ -1,0 +1,9 @@
+<h1>Screenshot's Preview</h1>
+
+<h2>Portugal Flag:</h2>
+
+![Alt text](https://i.imgur.com/FkRWQ9I.png?raw=true "Portugal Flag")
+
+<h2>Australia Flag:</h2>
+
+![Alt text](https://i.imgur.com/i8Mbwho.png?raw=true "Australia Flag")
