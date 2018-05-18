@@ -1,0 +1,9 @@
+// RUSSIA FLAG
+
+materials/models/htconfigs/flags/russia/russia.vmt 
+materials/models/htconfigs/flags/russia/russia.vtf 
+materials/models/htconfigs/flags/russia/russia_blue.vmt 
+models/htconfigs/flags/russia.dx90.vtx 
+models/htconfigs/flags/russia.mdl 
+models/htconfigs/flags/russia.phy 
+models/htconfigs/flags/russia.vvd 
