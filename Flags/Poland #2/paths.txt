@@ -1,0 +1,9 @@
+// POLAND V2
+
+materials/models/htconfigs/flags/poland/poland_2.vmt 
+materials/models/htconfigs/flags/poland/poland_2.vtf 
+materials/models/htconfigs/flags/poland/poland_2_blue.vmt 
+models/htconfigs/flags/poland_2.dx90.vtx 
+models/htconfigs/flags/poland_2.mdl 
+models/htconfigs/flags/poland_2.phy 
+models/htconfigs/flags/poland_2.vvd 
