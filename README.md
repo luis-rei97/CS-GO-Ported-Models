@@ -37,4 +37,4 @@ I hope you enjoyed, and I'll keep this repository updated as soon as I port anot
 
 My Steam Profile if you have any questions -> http://steamcommunity.com/id/HallucinogenicTroll/
 
-My Website -> http://htconfigs.me/
+My Website -> http://HallucinogenicTrollConfigs.com/
