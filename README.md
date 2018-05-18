@@ -13,6 +13,7 @@
   <li><b>Australia</b></li>
   <li><b>Poland (#1)</b></li>
   <li><b>Poland (#2)</b></li>
+  <li><b>Russia</b></li>
 </ul>
 
 <h3>Pokémon (Pet)</h3>
