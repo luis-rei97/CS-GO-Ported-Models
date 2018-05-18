@@ -7,23 +7,29 @@
 
 <h2>Current Models in this Repository: </h2>
 
+<h3>Flags (Acessories)</h3>
+<ul>
+  <li><b>Portugal</b></li>
+  <li><b>Australia</b></li>
+</ul>
+
 <h3>Pokémon (Pet)</h3>
 <ul>
-  <li>Pokémon <b>Jolteon</b></li>
-  <li>Pokémon <b>Umbreon</b></li>
-  <li>Pokémon <b>Vaporeon</b></li>
+  <li><b>Jolteon</b></li>
+  <li><b>Umbreon</b></li>
+  <li><b>Vaporeon</b></li>
 </ul>
 
 <h3>Animals (Pet)</h3>
 <ul>
-  <li>Animal <b>Lynx</b>
-  <li>Animal <b>Turtle</b>
-  <li>Animal <b>Lion</b>
+  <li><b>Lynx</b>
+  <li><b>Turtle</b>
+  <li><b>Lion</b>
 </ul>
 
 <h3>Dinosaur (Pet)</h3>
 <ul>
-  <li>Dinosaur <b>Dromeosaur</b></li>
+  <li><b>Dromeosaur</b></li>
 </ul>
 
 
