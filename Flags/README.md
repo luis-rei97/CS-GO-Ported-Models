@@ -7,3 +7,7 @@
 <h2>Australia Flag:</h2>
 
 ![Alt text](https://i.imgur.com/i8Mbwho.png?raw=true "Australia Flag")
+
+<h2>Poland (#1) Flag:</h2>
+
+![Alt text](https://i.imgur.com/Ii7A6cW.png?raw=true "Australia Flag")
