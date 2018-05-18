@@ -1,0 +1,9 @@
+// AUSTRALIA FLAG
+
+materials/models/htconfigs/flags/australia/australia.vmt 
+materials/models/htconfigs/flags/australia/australia.vtf 
+materials/models/htconfigs/flags/australia/australia_blue.vmt 
+models/htconfigs/flags/australia.dx90.vtx 
+models/htconfigs/flags/australia.mdl 
+models/htconfigs/flags/australia.phy 
+models/htconfigs/flags/australia.vvd 

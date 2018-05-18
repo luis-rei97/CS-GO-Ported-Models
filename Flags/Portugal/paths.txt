@@ -1,0 +1,9 @@
+// PORTUGAL FLAG
+
+materials/models/htconfigs/flags/portugal/portugal.vmt 
+materials/models/htconfigs/flags/portugal/portugal.vtf 
+materials/models/htconfigs/flags/portugal/portugal_blue.vmt 
+models/htconfigs/flags/portugal.dx90.vtx 
+models/htconfigs/flags/portugal.mdl 
+models/htconfigs/flags/portugal.phy 
+models/htconfigs/flags/portugal.vvd 
