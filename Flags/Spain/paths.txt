@@ -1,0 +1,8 @@
+// SPAIN FLAG
+
+materials/models/htconfigs/flags/spain/spain.vmt 
+materials/models/htconfigs/flags/spain/spain.vtf 
+models/htconfigs/flags/spain.dx90.vtx 
+models/htconfigs/flags/spain.mdl 
+models/htconfigs/flags/spain.phy 
+models/htconfigs/flags/spain.vvd 

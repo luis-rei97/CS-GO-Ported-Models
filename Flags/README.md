@@ -27,3 +27,7 @@
 <h2>United Kingdom (UK) Flag:</h2>
 
 ![Alt text](https://i.imgur.com/EW3EqpS.png "United Kingdom (UK) Flag")
+
+<h2>Spain Flag:</h2>
+
+![Alt text](https://i.imgur.com/nMFDwX0.png "Spain Flag")
