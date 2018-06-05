@@ -1,0 +1,9 @@
+// UNITED STATES OF AMERICA FLAG
+
+materials/models/htconfigs/flags/usa/usa.vmt 
+materials/models/htconfigs/flags/usa/usa.vtf 
+materials/models/htconfigs/flags/usa/usa_blue.vmt 
+models/htconfigs/flags/usa.dx90.vtx 
+models/htconfigs/flags/usa.mdl 
+models/htconfigs/flags/usa.phy 
+models/htconfigs/flags/usa.vvd 

@@ -19,3 +19,7 @@
 <h2>Russia Flag:</h2>
 
 ![Alt text](https://i.imgur.com/8RMV8f8.png?raw=true "Poland #2 Flag")
+
+<h2>United States of America (USA) Flag:</h2>
+
+![Alt text](https://i.imgur.com/9EXvMi7.png? "United States of America (USA) Flag")
