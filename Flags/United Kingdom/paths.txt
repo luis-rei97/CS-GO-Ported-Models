@@ -1,0 +1,8 @@
+// UNITED KINGDOM FLAG
+
+materials/models/htconfigs/flags/uk/uk.vmt 
+materials/models/htconfigs/flags/uk/uk.vtf 
+models/htconfigs/flags/uk.dx90.vtx 
+models/htconfigs/flags/uk.mdl 
+models/htconfigs/flags/uk.phy 
+models/htconfigs/flags/uk.vvd 

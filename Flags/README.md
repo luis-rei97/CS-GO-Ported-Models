@@ -2,24 +2,28 @@
 
 <h2>Portugal Flag:</h2>
 
-![Alt text](https://i.imgur.com/FkRWQ9I.png?raw=true "Portugal Flag")
+![Alt text](https://i.imgur.com/FkRWQ9I.png "Portugal Flag")
 
 <h2>Australia Flag:</h2>
 
-![Alt text](https://i.imgur.com/i8Mbwho.png?raw=true "Australia Flag")
+![Alt text](https://i.imgur.com/i8Mbwho.png "Australia Flag")
 
 <h2>Poland (#1) Flag:</h2>
 
-![Alt text](https://i.imgur.com/Ii7A6cW.png?raw=true "Poland #1 Flag")
+![Alt text](https://i.imgur.com/Ii7A6cW.png "Poland #1 Flag")
 
 <h2>Poland (#2) Flag:</h2>
 
-![Alt text](https://i.imgur.com/spU2Q78.png?raw=true "Poland #2 Flag")
+![Alt text](https://i.imgur.com/spU2Q78.png "Poland #2 Flag")
 
 <h2>Russia Flag:</h2>
 
-![Alt text](https://i.imgur.com/8RMV8f8.png?raw=true "Poland #2 Flag")
+![Alt text](https://i.imgur.com/8RMV8f8.png "Poland #2 Flag")
 
 <h2>United States of America (USA) Flag:</h2>
 
-![Alt text](https://i.imgur.com/9EXvMi7.png? "United States of America (USA) Flag")
+![Alt text](https://i.imgur.com/9EXvMi7.png "United States of America (USA) Flag")
+
+<h2>United Kingdom (UK) Flag:</h2>
+
+![Alt text](https://i.imgur.com/EW3EqpS.png "United Kingdom (UK) Flag")
