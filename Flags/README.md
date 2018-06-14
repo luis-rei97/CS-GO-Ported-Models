@@ -31,3 +31,7 @@
 <h2>Spain Flag:</h2>
 
 ![Alt text](https://i.imgur.com/nMFDwX0.png "Spain Flag")
+
+<h2>Argentina Flag:</h2>
+
+![Alt text](https://i.imgur.com/c4vFlhx.png "Argentina Flag")

@@ -1,0 +1,8 @@
+// ARGENTINA FLAG
+
+materials/models/htconfigs/flags/argentina/argentina.vmt 
+materials/models/htconfigs/flags/argentina/argentina.vtf 
+models/htconfigs/flags/argentina.dx90.vtx 
+models/htconfigs/flags/argentina.mdl 
+models/htconfigs/flags/argentina.phy 
+models/htconfigs/flags/argentina.vvd 
