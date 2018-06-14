@@ -1,0 +1,8 @@
+// CANADA FLAG
+
+materials/models/htconfigs/flags/canada/canada.vmt 
+materials/models/htconfigs/flags/canada/canada.vtf 
+models/htconfigs/flags/canada.dx90.vtx 
+models/htconfigs/flags/canada.mdl 
+models/htconfigs/flags/canada.phy 
+models/htconfigs/flags/canada.vvd 

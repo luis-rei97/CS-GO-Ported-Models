@@ -35,3 +35,7 @@
 <h2>Argentina Flag:</h2>
 
 ![Alt text](https://i.imgur.com/c4vFlhx.png "Argentina Flag")
+
+<h2>Canada Flag:</h2>
+
+![Alt text](https://i.imgur.com/xeSUkjX.png "Canada Flag")
